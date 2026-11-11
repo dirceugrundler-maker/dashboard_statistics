@@ -9,21 +9,21 @@
 
 import os
 import altair as alt
-import folium
+#import folium
 import html
 import numpy as np
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
-import geopandas as gpd
+#import geopandas as gpd
 
 from datetime import date, time, timedelta
 from folium.plugins import MarkerCluster, HeatMap
 from html import escape
-from IPython.display import display, FileLink
+#from IPython.display import display, FileLink
 from streamlit_folium import st_folium
-from shapely.geometry import Point
+#from shapely.geometry import Point
 
 
 st.set_page_config(
