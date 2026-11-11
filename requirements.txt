@@ -5,10 +5,7 @@ seaborn>=0.12
 matplotlib>=3.5
 pandas>=1.5
 numpy>=1.21
-geopandas
-folium
 streamlit-folium
-ipython
 ipykernel
 nbformat
 pyarrow
@@ -16,4 +13,3 @@ jupyter
 ipywidgets
 beautifulsoup4
 scipy
-html
